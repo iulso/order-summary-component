@@ -27,7 +27,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 ### Links
 
 - Live Site URL: [click here](https://iulso.github.io/order-summary-component/)
-- Solution URL in Frontend Mentor: [click here]()
+- Solution URL in Frontend Mentor: [click here](https://www.frontendmentor.io/solutions/order-summary-component-OKQ5AUjVAv)
 
 ## My process
 
