@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" href="./images/favicon-32x32.png" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@500;700;900&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./css/style.css" />
+    <title>Frontend Mentor | Order summary card</title>
+  </head>
+  <body>
+    <main class="content">
+      <div class="order-summary-component">
+        <figure class="image">
+          <img
+            src="./images/illustration-hero.svg"
+            alt="Drawing of a long-haired person with casual style enjoying listening to music in a mobile phone using headphones"
+            class="image__photo"
+          />
+        </figure>
+        <div class="order">
+          <h1 class="heading heading_primary">Order Summary</h1>
+          <p class="order__description">
+            You can now listen to millions of songs, audiobooks, and podcasts on
+            any device anywhere you like!
+          </p>
+          <div class="order-details">
+            <div class="order__item">
+              <figure class="image">
+                <img
+                  src="./images/icon-music.svg"
+                  alt="Music icon with two joined eighth notes"
+                  class="image__photo"
+                />
+              </figure>
+              <div class="summary">
+                <p class="summary__title heading">Annual Plan</p>
+                <p class="summary__text">$59.99/year</p>
+              </div>
+              <button class="btn btn_link">Change</button>
+            </div>
+          </div>
+          <div class="order__cta">
+            <button class="btn btn_primary">Proceed to Payment</button>
+            <button class="btn btn_transparent">Cancel Order</button>
+          </div>
+        </div>
+      </div>
+    </main>
+  </body>
+</html>
