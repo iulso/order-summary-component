@@ -34,7 +34,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 ### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
+- CSS variables
 - Flexbox
 - [BEM methodology](https://en.bem.info/methodology/)
 
